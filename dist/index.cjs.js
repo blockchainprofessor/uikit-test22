@@ -2287,7 +2287,7 @@ var socials = [
             //     href: "https://t.me/polyvertex_announcements",
             // },
         ],
-    // },
+    },
     // {
     //     label: "Twitter",
     //     icon: "TwitterIcon",
