@@ -2618,7 +2618,7 @@ var AccountModal = function (_a) {
     return (React.createElement(Modal, { title: "Your wallet", onDismiss: onDismiss },
         React.createElement(Text, { fontSize: "20px", bold: true, style: { whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", marginBottom: "8px" } }, account),
         React.createElement(Flex, { mb: "32px" },
-            React.createElement(LinkExternal, { small: true, href: "https://PolygonScan.com/address/" + account, mr: "16px" }, "View on PolygonScan"),
+            React.createElement(LinkExternal, { small: true, href: "https://FtmScan.com/address/" + account, mr: "16px" }, "View on FtmScan"),
             React.createElement(CopyToClipboard, { toCopy: account }, "Copy Address")),
         React.createElement(Flex, { justifyContent: "center" },
             React.createElement(Button, { size: "sm", variant: "danger", onClick: function () {
