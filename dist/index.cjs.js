@@ -2240,7 +2240,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/polyvertex",
+                href: "https://t.me/chronusfinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2266,14 +2266,14 @@ var socials = [
             //   label: "Türkiye",
             //   href: "",
             // },
-            {
-                label: "Español",
-                href: "https://t.me/polyvertex_spanish",
-            },
-            {
-                label: "Português",
-                href: "https://t.me/polyvertex_portugues",
-            },
+            // {
+            //     label: "Español",
+            //     href: "https://t.me/polyvertex_spanish",
+            // },
+            // {
+            //     label: "Português",
+            //     href: "https://t.me/polyvertex_portugues",
+            // },
             // {
             //   label: "日本語",
             //   href: "",
@@ -2282,22 +2282,22 @@ var socials = [
             //   label: "Français",
             //   href: "",
             // },
-            {
-                label: "Announcements",
-                href: "https://t.me/polyvertex_announcements",
-            },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/polyvertex_announcements",
+            // },
         ],
-    },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/FarmVertex",
-    },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/PolyVertex/",
-    },
+    // },
+    // {
+    //     label: "Twitter",
+    //     icon: "TwitterIcon",
+    //     href: "https://twitter.com/FarmVertex",
+    // },
+    // {
+    //     label: "Reddit",
+    //     icon: "RedditIcon",
+    //     href: "https://www.reddit.com/r/PolyVertex/",
+    // },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
